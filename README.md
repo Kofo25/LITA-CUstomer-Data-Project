@@ -82,4 +82,5 @@ group by SubscriptionType
 ```
 
 3. Power BI-
-The use of DAX Functions to calculate measures which were applied to the data enabled us to be able to visualize it effectively and tell us more about the Customer Data 
+The use of DAX Functions to calculate measures which were applied to the data enabled us to be able to visualize it effectively and tell us more about the Customer Data.
+By creating measures
